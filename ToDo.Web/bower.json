@@ -1,5 +1,5 @@
 {
-	"name": "react-song-rate",
+	"name": "todo-web",
 	"dependencies": {
 		"react": "0.12.2",
 		"bootstrap": "3.3.1",
